@@ -10,23 +10,40 @@ It contains 214 samples of glasses which can be categorized into different types
 
 The columns in this dataset are:
 
+
 RI: refractive index
+
 Na: Sodium
+
 Mg: Magnesium
+
 Al: Aluminum
+
 Si: Silica
+
 K: Potassium
+
 Ca: Calcium
+
 Ba: Barium
+
 Fe: Iron
+
 Type of glass (Target label)
+
 RI is an index vaiable and has no units. Columns 3-9 are measured as weight percent in corresponding oxide.
 
 The Target label, Type of Glass has 6 classes:
 
+
 1: building_windows_float_processed
+
 2: building_windows_non_float_processed
+
 3: vehicle_windows_float_processed
+
 5: containers
+
 6: tableware
+
 7: headlamps
